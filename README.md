@@ -1,11 +1,11 @@
-# Ledger Cosmos app
+# Ledger Desmos app
 [![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)](https://opensource.org/licenses/Apache-2.0)
 [![CircleCI](https://circleci.com/gh/Zondax/ledger-cosmos.svg?style=shield)](https://circleci.com/gh/Zondax/ledger-cosmos)
 [![CodeFactor](https://www.codefactor.io/repository/github/zondax/ledger-cosmos/badge)](https://www.codefactor.io/repository/github/zondax/ledger-cosmos)
 
-This project contains the Cosmos app for Ledger Nano S and X.
+This project contains the Desmos app for Ledger Nano S and X. This project is forked from [Ledger Cosmos app](https://github.com/LedgerHQ/app-cosmos).
 
-- Ledger Nano S/X Cosmos app
+- Ledger Nano S/X Desmos app
 - Specs / Documentation
 - C++ unit tests
 - Zemu tests
