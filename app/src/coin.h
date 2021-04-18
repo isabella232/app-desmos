@@ -49,7 +49,7 @@ typedef enum {
 #define CRYPTO_BLOB_SKIP_BYTES              0
 #define COIN_DEFAULT_CHAINID                "desmos-1"
 
-// In non-expert mode, the app will convert from uatom to ATOM
+// In non-expert mode, the app will convert from udesmos to DESMOS
 #define COIN_DEFAULT_DENOM_BASE             "udesmos"
 #define COIN_DEFAULT_DENOM_REPR             "DESMOS"
 #define COIN_DEFAULT_DENOM_FACTOR           6
